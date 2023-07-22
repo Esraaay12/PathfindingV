@@ -5,11 +5,9 @@ import PathfindingV from './PathfindingV/PathfindingV';
 function App() {
   return (
     <div className="App">
-      <PathfindingV> </PathfindingV>
-      </div> 
+      <PathfindingV></PathfindingV>
+    </div>
   );
-      
-  
 }
 
 export default App;
